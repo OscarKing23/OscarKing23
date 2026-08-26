@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=100&section=header&text=Oscar%20Rodriguez&fontSize=35&fontColor=ffffff&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=100&section=header&text=Oscar%20Isaac%20Rodriguez&fontSize=35&fontColor=ffffff&fontAlignY=50)
 
 # ¡Hola!, Soy Oscar
 ## León de los aldama, Mexico
