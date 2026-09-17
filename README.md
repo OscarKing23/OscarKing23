@@ -3,13 +3,13 @@
 # ¡Hola!, Soy Oscar
 ## León de los aldama, Mexico
 
-Soy desarrollador apasionado por crear cosas increíbles con código. Bienvenido a mi perfil 🚀
+Soy desarrollador apasionado por crear cosas increíbles con código. Bienvenido a mi perfil 
 
 ##  Mis Estadísticas de GitHub
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=OscarKing23&theme=ocean)
 
-## 🧑 Sobre mí
+## Sobre mí
 
 -  Actualmente trabajando en: Soporte Tecnico
 -  Aprendiendo: Estoy por terminar la universidad
