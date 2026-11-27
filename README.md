@@ -1,9 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=100&section=header&text=Oscar%20Isaac%20Rodriguez&fontSize=35&fontColor=ffffff&fontAlignY=50)
 
-# ¡Hola!, Soy Oscar
+# ¡Hola!, Soy Oscar Rodriguez
 ## León de los aldama, Mexico
 
-Soy desarrollador apasionado por crear cosas increíbles con código. Bienvenido a mi perfil 
+Soy desarrollador en proceso apasionado por crear cosas increíbles con código. Bienvenido a mi perfil 
 
 ##  Mis Estadísticas de GitHub
 
